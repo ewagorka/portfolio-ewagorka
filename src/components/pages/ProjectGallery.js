@@ -1,9 +1,12 @@
 import React from "react";
+import projecCard from "./ProjectCard"
+import ProjectCard from "./ProjectCard";
 
-function Blog() {
+
+function ProjectGallery() {
   return (
     <div>
-      <h1>Blog Page</h1>
+      <h1>Project Gallery</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula. Curabitur pellentesque
         turpis sit amet eros iaculis, a mollis arcu dictum. Ut vel ante eget massa ornare placerat.
@@ -16,8 +19,10 @@ function Blog() {
         vehicula sit amet at augue. Maecenas aliquam bibendum congue. Pellentesque semper, lectus
         non ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
+      <ProjectCard/>
+      <ProjectCard/>
     </div>
   );
 }
 
-export default Blog;
+export default ProjectGallery;
