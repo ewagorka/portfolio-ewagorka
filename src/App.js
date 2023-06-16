@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import NavTabs from './components/NavTabs';
-import Home from './components/pages/Home';
-import ProjectGallery from './components/pages/ProjectGallery';
-import Contact from './components/pages/Contact';
+import NavTabs from './components/Header';
+import Home from './pages/Home';
+import ProjectGallery from './pages/ProjectGallery';
+import Contact from "./pages/Contact"
 
 function App() {
   return (

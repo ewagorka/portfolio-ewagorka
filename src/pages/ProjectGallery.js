@@ -1,6 +1,5 @@
 import React from "react";
-import projecCard from "./ProjectCard"
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "../components/ProjectCard";
 
 
 function ProjectGallery() {

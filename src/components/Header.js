@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-function NavTabs() {
+function Header() {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
@@ -40,4 +40,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default Header;
