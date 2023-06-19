@@ -1,0 +1,54 @@
+:root{
+    --magnolia:#fcf2ff;
+    --amethyst: #A06CD5;
+    --royalPurple: #a06cd5;
+    --prusianBlue: #102B3F;
+    --gunmetal: #082730;
+}
+
+html,
+body {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: var(--magnolia);
+} 
+
+h2{
+    padding: 1rem 0rem;
+    color: var(--prusianBlue);
+    margin-bottom: 2rem;
+}
+
+.btn, .CTA{
+    background-color: var(--amethyst) !important;
+    border: var(--royalPurple) 1 solid !important;
+    color: var(--magnolia) !important;
+    border-radius: 8px;
+}
+
+.CTA:is(:hover, :focus, :focus-visible){
+    border: var(--royalPurple) 1 solid !important;
+    box-shadow: 0 0 0 0.2rem rgba(164, 0, 186, 0.25); 
+}
+
+
+.tags{
+    padding-bottom: 0.5rem;
+}
+
+.badge{
+    font-size: 14px;
+    padding: 5px 10px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+
+.badge-primary{
+    background-color: var(--royalPurple);
+}
+
+.badge-secondary{
+    background-color: white;
+    color: var(--royalPurple);
+    border: var(--royalPurple) solid 1px;
+}

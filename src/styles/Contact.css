@@ -1,0 +1,10 @@
+.center-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.center-column .CTA{
+    margin-bottom: 2rem;
+}
