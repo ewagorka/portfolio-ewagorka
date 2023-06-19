@@ -1,0 +1,39 @@
+[
+    {
+        "id": "0",
+        "description": "A Node.js command-line application. It takes in information about employees on a software engineering team, then generate an HTML webpage that displays summaries for each person.",
+        "deployedUrl": "https://github.com/ewagorka/Team-Profile-Generator",
+        "githubUrl": "https://github.com/ewagorka/Team-Profile-Generator",
+        "tags": [
+            "project"
+        ],
+        "title": "Team-Profile-Generator",
+        "image": "https://media.giphy.com/media/ETKVAa2FJW1Uc/giphy.gif"
+    },
+    {
+        "id": "1",
+        "description": "This is an app that generated a professional Github README file for any project. It will take user's input and create a quality README file with sections like: title, description, license, installation, usage, testing, and questions. This README file was created with this app, however manual changes have been added. Please see the generatedReadMe.md file, to see what to see a sample file, generated with this app.",
+        "deployedUrl": "https://github.com/ewagorka/readme-generator",
+        "githubUrl": "https://github.com/ewagorka/readme-generator",
+        "tags": [
+            "personal",
+            "project",
+            "sanity"
+        ],
+        "title": "Readme Generatie",
+        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+    },
+    {
+        "id": "2",
+        "description": "Forcast app using OpenWeather API. The App allows the user to enter a city name & display the weather forecast for today and the next 5 days.",
+        "deployedUrl": "https://ewagorka.github.io/Weather-Forecast-App/",
+        "githubUrl": "https://github.com/ewagorka/Weather-Forecast-App",
+        "tags": [
+            "personal",
+            "project",
+            "sanity"
+        ],
+        "title": "Weather-Forecast-App",
+        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+    }
+]

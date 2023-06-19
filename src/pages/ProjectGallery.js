@@ -1,8 +1,10 @@
 import React from "react";
 import ProjectCard from "../components/ProjectCard";
+import projects from '../data/projects.json'
 
 
-function ProjectGallery() {
+const ProjectGallery = () => {
+  let listOfProjects = projects.map((project, i) => <ProjectCard {...project} key={i} />)
   return (
     <div>
       <div className="jumbotron header">
@@ -10,8 +12,7 @@ function ProjectGallery() {
           <div className="row">
             <div className="col-md-12 project-gallery">
               <h1>Project Gallery</h1>
-              <ProjectCard />
-              <ProjectCard />
+              {listOfProjects}
             </div>
           </div>
         </div>

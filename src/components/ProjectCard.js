@@ -1,7 +1,8 @@
 import React from "react";
 import "../styles/projectCard.css"
+import { Link } from "react-router-dom";
 
-function ProjectCard() {
+const ProjectCard = ({ id, image, title, description }) => {
     return (
         <div className="col-sm-12 col-md-6 col-lg-6 col-xl-4">
             <div className="card">
@@ -12,11 +13,12 @@ function ProjectCard() {
                             <span className="badge badge-pill badge-secondary">Coming Soon</span>
                             <span class="badge badge-pill badge-secondary">HTML</span>
                         </div>
-                        <h5 className="card-title">Project 4</h5>
-                        <p className="card-text">Exciting things are coming!<br /> Come back next Tuesday to see what
-                            this project turns out to be. </p>
+                        <h5 className="card-title">{title}</h5>
+                        <p className="card-text">{description} </p>
+                        <Link to={`/project/${id}`}>
                         <a className="btn CTA">
                             View Project</a>
+                            </Link>
                     </div>
             </div>
         </div>
