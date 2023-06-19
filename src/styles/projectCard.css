@@ -1,0 +1,6 @@
+@import "DesignSystem.css";
+
+
+.card-text{
+    color: var(--gunmetal) !important;
+}
