@@ -1,6 +1,15 @@
 @import "DesignSystem.css";
 
+.card{
+    max-width: 300px;
+    margin-bottom: 1rem;
+}
 
 .card-text{
     color: var(--gunmetal) !important;
+    text-align: left !important;
+}
+
+.badge{
+    margin-right: 8px;
 }
