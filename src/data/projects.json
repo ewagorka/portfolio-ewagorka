@@ -8,7 +8,7 @@
             "project"
         ],
         "title": "Team-Profile-Generator",
-        "image": "src/images/project0.png"
+        "image": "https://raw.githubusercontent.com/ewagorka/portfolio-ewagorka/main/src/images/project0.png"
     },
     {
         "id": "1",
@@ -21,7 +21,7 @@
             "Javascript"
         ],
         "title": "Readme Generator",
-        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+        "image": "https://raw.githubusercontent.com/ewagorka/portfolio-ewagorka/main/src/images/project1.png"
     },
     {
         "id": "2",
@@ -34,7 +34,7 @@
             "Javascript"
         ],
         "title": "Weather Forecast App",
-        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+        "image": "https://raw.githubusercontent.com/ewagorka/portfolio-ewagorka/main/src/images/project2.png"
     },
     {
         "id": "3",
@@ -47,7 +47,7 @@
             "Javascript"
         ],
         "title": "Daily Planner App",
-        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+        "image": "https://raw.githubusercontent.com/ewagorka/portfolio-ewagorka/main/src/images/project3.png"
     },
     {
         "id": "4",
@@ -60,6 +60,6 @@
             "Javascript"
         ],
         "title": "Code Quiz",
-        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+        "image": "https://raw.githubusercontent.com/ewagorka/portfolio-ewagorka/main/src/images/project4.gif"
     }
 ]
