@@ -8,19 +8,19 @@
             "project"
         ],
         "title": "Team-Profile-Generator",
-        "image": "https://media.giphy.com/media/ETKVAa2FJW1Uc/giphy.gif"
+        "image": "src/images/project0.png"
     },
     {
         "id": "1",
-        "description": "This is an app that generated a professional Github README file for any project. It will take user's input and create a quality README file with sections like: title, description, license, installation, usage, testing, and questions. This README file was created with this app, however manual changes have been added. Please see the generatedReadMe.md file, to see what to see a sample file, generated with this app.",
+        "description": "This is an app that generated a professional Github README file for any project. It will take user's input and create a quality README file with sections like: title, description, license, installation, usage, testing, and questions.",
         "deployedUrl": "https://github.com/ewagorka/readme-generator",
         "githubUrl": "https://github.com/ewagorka/readme-generator",
         "tags": [
-            "personal",
-            "project",
-            "sanity"
+            "HTML",
+            "CSS",
+            "Javascript"
         ],
-        "title": "Readme Generatie",
+        "title": "Readme Generator",
         "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
     },
     {
@@ -29,11 +29,37 @@
         "deployedUrl": "https://ewagorka.github.io/Weather-Forecast-App/",
         "githubUrl": "https://github.com/ewagorka/Weather-Forecast-App",
         "tags": [
-            "personal",
-            "project",
-            "sanity"
+            "HTML",
+            "CSS",
+            "Javascript"
         ],
-        "title": "Weather-Forecast-App",
+        "title": "Weather Forecast App",
+        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+    },
+    {
+        "id": "3",
+        "description": "A simple daily planner App, that colour codes  each timeblock based on past, present, and future when the timeblock is viewed. You can add your task to each timeblock by simply clicking on it.",
+        "deployedUrl": "https://ewagorka.github.io/daily-planner-app/",
+        "githubUrl": "https://github.com/ewagorka/daily-planner-app",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "title": "Daily Planner App",
+        "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
+    },
+    {
+        "id": "4",
+        "description": "A simple, timed coding quiz with multiple-choice questions. Once the user has finished the quiz (or the time is over) the user can save their initials and score to a high scores table..",
+        "deployedUrl": " https://ewagorka.github.io/Code-Quiz/",
+        "githubUrl": "https://github.com/ewagorka/Code-Quiz",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "title": "Code Quiz",
         "image": "https://i.pinimg.com/originals/a0/bf/9d/a0bf9dd4680ae179adcded18537aab3b.jpg"
     }
 ]
