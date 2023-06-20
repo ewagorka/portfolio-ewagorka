@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-ewagorka/static/css/main.6bf4abfc.css",
+    "main.js": "/portfolio-ewagorka/static/js/main.162e8543.js",
+    "static/media/profile-photo.jpeg": "/portfolio-ewagorka/static/media/profile-photo.766bfdbe0d57399fc5b5.jpeg",
+    "index.html": "/portfolio-ewagorka/index.html",
+    "main.6bf4abfc.css.map": "/portfolio-ewagorka/static/css/main.6bf4abfc.css.map",
+    "main.162e8543.js.map": "/portfolio-ewagorka/static/js/main.162e8543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf4abfc.css",
+    "static/js/main.162e8543.js"
+  ]
+}
